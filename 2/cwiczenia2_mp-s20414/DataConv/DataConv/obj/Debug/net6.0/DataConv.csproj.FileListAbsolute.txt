@@ -1,0 +1,15 @@
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\bin\Debug\net6.0\DataConv.exe
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\bin\Debug\net6.0\DataConv.deps.json
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\bin\Debug\net6.0\DataConv.runtimeconfig.json
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\bin\Debug\net6.0\DataConv.dll
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\bin\Debug\net6.0\DataConv.pdb
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\DataConv.csproj.AssemblyReference.cache
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\DataConv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\DataConv.AssemblyInfoInputs.cache
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\DataConv.AssemblyInfo.cs
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\DataConv.csproj.CoreCompileInputs.cache
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\DataConv.dll
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\refint\DataConv.dll
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\DataConv.pdb
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\DataConv.genruntimeconfig.cache
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\2\cwiczenia2_mp-s20414\DataConv\DataConv\obj\Debug\net6.0\ref\DataConv.dll

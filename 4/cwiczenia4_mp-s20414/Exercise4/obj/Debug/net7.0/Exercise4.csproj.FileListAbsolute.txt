@@ -1,0 +1,15 @@
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\bin\Debug\net7.0\Exercise4.exe
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\bin\Debug\net7.0\Exercise4.deps.json
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\bin\Debug\net7.0\Exercise4.runtimeconfig.json
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\bin\Debug\net7.0\Exercise4.dll
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\bin\Debug\net7.0\Exercise4.pdb
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\Exercise4.csproj.AssemblyReference.cache
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\Exercise4.AssemblyInfoInputs.cache
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\Exercise4.AssemblyInfo.cs
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\Exercise4.dll
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\refint\Exercise4.dll
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\Exercise4.pdb
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\Exercise4.genruntimeconfig.cache
+C:\Users\Brzez\OneDrive\Pulpit\PJATK\apbd\4\cwiczenia4_mp-s20414\Exercise4\obj\Debug\net7.0\ref\Exercise4.dll

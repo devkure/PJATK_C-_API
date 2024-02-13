@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataConv": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Brzez\\OneDrive\\Pulpit\\PJATK\\apbd\\2\\cwiczenia2_mp-s20414\\DataConv\\DataConv\\dane.csv C:\\Users\\Brzez\\OneDrive\\Pulpit\\PJATK\\apbd\\2\\cwiczenia2_mp-s20414\\DataConv\\DataConv\\output\\ C:\\Users\\Brzez\\OneDrive\\Pulpit\\PJATK\\apbd\\2\\cwiczenia2_mp-s20414\\DataConv\\DataConv\\logs.txt json"
+    }
+  }
+}
